@@ -2,6 +2,10 @@
 
 A compact SwiftUI recording-wave component with four overlapping capsules, independent motion curves, and per-bar glow.
 
+## Preview
+
+![RecordingSignalWave demo](demo.gif)
+
 ## Features
 
 - Four-capsule recording signal tuned for voice UI
